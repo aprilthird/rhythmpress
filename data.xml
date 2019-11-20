@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Rhythmtale</title>
+	<founding-date>Octubre 20, 2019</founding-date>
+	<website>https://rhythmtale.azurewebsites.com/</website>
+	<based-in>Lima, Perú</based-in>
+	
+	<press-contact>admin@rhythmdev.com</press-contact>
+	<phone>+51 (1) 994 762 307</phone>
+	<address>
+		<line>Av. Primavera 2001</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/rhythmdevs</name>
+			<link>twitter.com/rhythmdevs</link>
+		</social>
+		<social>
+			<name>facebook.com/rhythmdevs</name>
+			<link>facebook.com/rhythmdevs</link>
+		</social>
+		<social>
+			<name>Skype</name>
+			<link>callto:rhythmdevs</link>
+		</social>
+	</socials>
+
+	<description>
+	Rhythmtale es un videojuego que combina elementos del género
+musical y RPG. Durante las batallas musicales el jugador tendrá que seguir el ritmo de la
+música para que su banda pueda vencer a los enemigos, los elementos RPG juegan un
+papel fundamental ya que el jugador tendrá que conseguir objetos, reclutar integrantes de la
+banda, mejorar su equipación y subir de nivel para conseguir un mejor desempeño durante
+las batallas. Una demostración jugable del videojuego fue presentada durante el famoso
+evento Lima Games Week 2019 donde diversas personas pudieron probar al menos tres de
+los niveles con algunas opciones de personalización.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Ambientación</header>
+			<text>
+			Rhythmtale se ambienta en un mundo de fantasía donde encarnas a un joven que busca
+recuperar su guitarra más preciada que le fue arrebatada. En su aventura tendrá que
+recorrer el reino de Rhythmtale para conseguir aliados que fortalecerán la banda, subir el
+nivel de sus habilidades, conseguir mejores herramientas, objetos especiales, comprar o
+vender estos objetos, explorar cada una de las zonas del reino y vencer a todos los
+enemigos que se opongan en su camino.
+			</text>
+		</history>
+		<history>
+			<header>Juego</header>
+			<text>
+Estructuralmente, el videojuego consta de 24 niveles distribuidos en 6 zonas del reino de
+Rhythmtale, los cuales se diferencian principalmente por el bioma que las conforma como
+pradera, bosque, montaña, desierto, nevada y zona volcánica. Durante la aventura el
+jugador tendrá que combatir contra pintorescos enemigos de la zona que también tocan
+instrumentos para hacerse con objetos que le servirán durante las batallas, estos pueden
+ser consumibles temporales o equipamientos permanentes para mejorar aspectos del
+personaje como la vida, ataque, defensa o influenciar en el equipo de forma positiva. El
+juego te permite vender los objetos conseguidos para conseguir dinero, el rhythmcoin, con
+el cual también se podrán adquirir otros objetos en la tienda. También permite editar la
+alineación de tu banda así como su inventario, de esta forma el desempeño de tu banda
+variará durante las batallas musicales donde el jugador, además de seguir el ritmo de la
+música, tendrá que depender de los atributos de los integrantes de su banda, la equipación
+que llevan y utilizar de la forma más adecuada los poderes especiales y consumibles para
+poder superar los niveles.
+				</text>
+		</history>
+		<history>
+			<header>El Equipo</header>
+			<text>
+			El videojuego ha sido desarrollado por un equipo de estudiantes de la UPC pertenecientes a
+las carreras de Ciencias de la Computación e Ingeniería de Software con el apoyo de
+estudiantes de diseño gráfico y música para la creación del arte y las canciones utilizadas
+para cada nivel musical respectivamente.
+			</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>7jQbITg0MSk</youtube>
+		</trailer>
+		<trailer>
+			<name>Playtests</name>
+			<youtube>LJg0vUTDDrM</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<!-- <award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award> -->
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Luis Guillermo</person>
+			<website>www.luisguillermo.com</website>
+			<role>Desarrollador</role>
+		</credit>
+		<credit>
+			<person>Luis Rojas</person>
+			<website>www.luisrojas.com</website>
+			<role>Desarrollador</role>
+		</credit>
+		<credit>
+			<person>Yanira Mayra</person>
+			<website>www.yaniramayra.com</website>
+			<role>Artista</role>
+		</credit>
+		<credit>
+			<person>Diego</person>
+			<website>www.diegomusic.com</website>
+			<role>Músico</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Correo</name>
+			<mail>admin@rhythmdevs.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/rhythmdevs</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/rhythmdevs</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>https://rhythmtale.azurewebsites.net</link>
+		</contact>
+	</contacts>
+</game>
